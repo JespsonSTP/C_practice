@@ -1,0 +1,9 @@
+header files
+- bring in dependencies
+- contains definition and function prototype
+
+run program
+this compiles file to machine code
+gcc ./file.c -o ./file
+run compile files
+./file.exe
